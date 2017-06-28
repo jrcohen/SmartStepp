@@ -27,7 +27,8 @@ Future Software compatibility:
  * Python Library (for standalone raspberry pi use)
  * Marlin 
  * GRBL
-
+ 
+![Prototype](/images/test1.JPG)
 
 This project draws inspiration from [Mechaduino](https://github.com/jcchurch13/Mechaduino-Firmware/blob/master/README.md), but hopefully will have its own niche applications
 
